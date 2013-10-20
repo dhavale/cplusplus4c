@@ -6,7 +6,7 @@
 //inlined init_vector function
 
 #include <iostream>
-#include <vector> //included vector
+#include <vector> //we need this if we have to use vectors
 using namespace std;
 
 const int N = 40; //changed from #define to const
