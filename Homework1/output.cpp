@@ -19,7 +19,7 @@ inline void init_vector(vector<int>& myvector, int num_items)
 }
 
 //used pass by reference here. Also variable names have
-//been changed to improvei readability.
+//been changed to improve readability.
 void sum(int& finalsum, int items, vector<int> myvector)
 {
   finalsum = 0;
